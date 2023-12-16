@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+pandas
+st_pages
+Pillow
+requests
+st-gsheets-connection
+koreanize_matplotlib
